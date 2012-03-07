@@ -1,0 +1,5 @@
+target/
+stacktrace.log
+.idea/
+codice-grailsPlugins.iml
+codice.iml
